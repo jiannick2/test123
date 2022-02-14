@@ -14,3 +14,5 @@ up:cp1
 up:cp2
 f1:a
 f1:b
+f1:c
+f1:d
